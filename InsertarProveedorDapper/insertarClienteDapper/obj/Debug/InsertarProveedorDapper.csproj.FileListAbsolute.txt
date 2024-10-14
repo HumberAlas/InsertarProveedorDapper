@@ -1,0 +1,15 @@
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\insertarClienteDapper.exe.config
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\insertarClienteDapper.exe
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\insertarClienteDapper.pdb
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\AccesoDatos.dll
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\Dapper.dll
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\AccesoDatos.pdb
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\bin\Debug\Dapper.xml
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\InsertarProveedorDapper.csproj.AssemblyReference.cache
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\insertarClienteDapper.Form1.resources
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\insertarClienteDapper.Properties.Resources.resources
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\InsertarProveedorDapper.csproj.GenerateResource.cache
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\InsertarProveedorDapper.csproj.CoreCompileInputs.cache
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\Insertar.D29F9CB2.Up2Date
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\insertarClienteDapper.exe
+E:\CUESTION\Parcial_2\InsertarProveedorDapper\insertarClienteDapper\obj\Debug\insertarClienteDapper.pdb
